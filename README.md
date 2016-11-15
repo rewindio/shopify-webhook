@@ -12,7 +12,7 @@ You need an AWS account to implement this solution.
 # Setup
 Follow the instructions in this blog post to setup AWS to handle the webhooks with a combination of AWS API Gateway, Lambda, SQS, and ElasticBeanstalk workers.
 
-## Step 4 - Sample Rails Files
+## Sample Rails Files
 In this repository we have two sample files that you can use to process the webhooks.
 
 You'll need a rails application that has the ShopifyAPI gem in it. The two files provided are:
