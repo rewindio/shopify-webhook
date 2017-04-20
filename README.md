@@ -1,3 +1,6 @@
+# Welcome Shopify Unite Visitors!
+If you're reading this after hearing about this at Unite, come and meet the Rewind team in person. We're in purple Rewind t-shirts - you can't miss us. We'd love to meet you in person.
+
 # Shopify Webhooks in AWS
 This details how to handle Shopify webhooks using AWS API Gateway, Lambda, and SQS. Read the complete blog post at https://medium.com/@mike_potter/handle-shopify-webhooks-without-a-server-ccd2ada62ece#.tkl04swbn first.
 
