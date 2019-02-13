@@ -1,5 +1,5 @@
 # Shopify Webhooks in AWS
-This details how to handle Shopify webhooks using AWS API Gateway, Lambda, and SQS. Read the complete blog post at https://blog.rewind.io/2016/11/16/handle-shopify-webhooks-without-a-server/ first.
+This details how to handle Shopify webhooks using AWS API Gateway, Lambda, and SQS. Read the complete blog post at https://rewind.io/blog/handle-shopify-webhooks-without-a-server/ first.
 
 # Why
 Shopify webhooks are useful for getting information from Shopify in realtime. However for popular apps with thousands of users, these webhooks can overwhelm a system. For example, when a Shopify store imports data from another system (when syncing inventory numbers for ex.), Shopify can send out thousands of webhooks that the app must respond to within 3 seconds.
